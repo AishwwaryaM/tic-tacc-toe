@@ -1,0 +1,18 @@
+button{
+  width: 100px;
+  height: 100px;
+  background-color: lightgrey;
+  border : 3px solid salmon;
+  margin: 0px;
+  color: salmon;
+  margin-top:2px;
+  margin-bottom: 2px;
+  font-size: 30px;
+}
+header{
+  font-size: 50px;
+  text-align: center;
+}
+body{
+  text-align: center;
+}
